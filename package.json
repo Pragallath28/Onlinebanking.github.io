@@ -1,0 +1,26 @@
+{
+  "name": "Pragallath.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pragallath28/Onlinebanking.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "homepage": "https://Pragallath28.github.io/Onlinebanking.github.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pragallath28/Onlinebanking.github.io/issues"
+  }
+  
+}
